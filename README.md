@@ -1,7 +1,8 @@
 # Predicting Entrepreneurial Activity Using Supervised Machine Learning
 
 This repository presents a complete, end-to-end workflow for predicting entrepreneurial activity using supervised machine learning techniques. The project integrates dataset construction in Stata, model development in R, and sampling methods to address class imbalance, with a specific focus on Opportunity-Motivated Entrepreneurship (OME) and Necessity-Motivated Entrepreneurship (NME).
-Datasets are in this drive link: https://drive.google.com/drive/folders/12Xwlu697VwOTSma2qgtO7sBxPMOs_12t?usp=drive_link
+
+Datasets are in this drive link: https://drive.google.com/drive/folders/14dzzPFUuVTIxWjBv3t2_P01-zi2smbGm?usp=drive_link
 
 ## 1. Machine Learning Models Used
 
@@ -76,7 +77,3 @@ df_india <- subset(df, country == 91)
 - Year-specific variable adjustments are mandatory for NME (2019–2020).
 - Validate datasets before merging.
 
-## 6. Use Cases
-- Academic research
-- Policy evaluation
-- Data science and quantitative research roles
