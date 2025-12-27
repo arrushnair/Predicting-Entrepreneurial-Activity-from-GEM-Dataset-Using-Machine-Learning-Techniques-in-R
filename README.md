@@ -67,8 +67,8 @@ df_india <- subset(df, country == 91)
 - Confusion matrices
 - ROC curves and AUC
 - Accuracy, Precision, Recall, F1-score
-- Year-wise Excel files (2015–2020)
-- Pooled results
+- Year-wise Results (2015–2020)
+- Pooled results (2015-2020)
 - Comparative model performance tables
 
 ## 5. Notes
